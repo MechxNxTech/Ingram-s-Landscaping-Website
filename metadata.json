@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Ingram's Landscaping - Cleveland TN",
+  "description": "Premium landscaping and lawn care services in Cleveland, Tennessee. Featuring AI-powered quote generation and expert local landscaping advice.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
